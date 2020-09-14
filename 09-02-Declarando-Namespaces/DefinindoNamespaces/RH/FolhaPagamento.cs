@@ -1,0 +1,7 @@
+namespace RH
+{
+    class FolhaPagamento
+    {
+        
+    }
+}
